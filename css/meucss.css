@@ -1,0 +1,159 @@
+.landing {
+	background-image: url(../image/bhback.jpg);
+	background-size: cover;
+	width: 100%;
+	
+}
+
+
+.landlogo img{
+	width: 300px;
+	padding-top: 15vh;
+}
+
+.landtext {
+	text-align: center;
+	color: white;
+	font-family: 'Abel', sans-serif;
+}
+
+.landtext h1{
+	font-size: 100px;
+}
+.landtext h2{
+	font-size: 40px;
+	font-family: 'Abel', sans-serif;
+}
+
+.scroll_incon img{
+	padding-top: 5vh;
+}
+
+.sobre {
+	background-color: rgba(180,180,180,0.1);
+	text-align: justify;
+	width: 100%;
+}
+
+
+
+.quadros {
+	display: run;
+}
+
+.col {
+	padding-top: 20px;
+	transition: 0.5s;
+}
+
+
+.col2 {
+	background-color: rgba(0,0,0,0.2);
+}
+
+.col5 {
+	background-color: rgba(0,0,0,0.2);
+}
+
+
+
+.col2:hover, .col4:hover{
+	background-color: rgba(255,0,0,0.8);
+	color: white;
+}
+
+/*calendário*/
+.calendário {
+
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: red;
+	color: white;
+}
+
+.calendário h1{
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Abel', sans-serif;
+}
+
+
+.datas {
+	display: none;
+}
+
+.datas p{
+	padding-top: 50px;
+
+}
+
+
+.side {
+	border-left: 2px solid #f38627;
+	top: 70px;
+
+}
+
+.side p{
+	transition: 0.5s;
+
+}
+
+.side p:hover{
+	background-color: rgba(0,0,0,0.03);
+	border-right: 4px solid #f38627;
+
+}
+
+
+
+
+.contato {
+	text-align: center;
+	font-family: 'Abel', sans-serif;
+}
+
+.contato h1{
+		padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 80px;
+	color: white;
+	}
+
+.tira {
+	width: 100%;
+	background-color: #313131;
+}
+
+
+.borda {
+	width: 200px;
+	height: 5px;
+	background-color: red;
+}
+
+
+.row {
+	font-size: 20px;
+}
+
+
+.meulink {
+	color: inherit !important;
+}
+
+.col4 {
+	background-color: rgba(0,0,0,0.1);
+	width: 100%;
+}
+
+footer {
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
